@@ -1,6 +1,6 @@
 # Coaster
 
-Exploration of a coaster dataset. 
+Exploration of a coaster dataset to train on Python.
 
 
-Focus on: speed, height, fabric and year introduced
+Focused on: speed, height, fabric and year introduced
